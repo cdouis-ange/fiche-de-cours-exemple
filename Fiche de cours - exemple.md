@@ -12,7 +12,7 @@
 
 ### Présentation personnelle
 
-// Décrivez en quelques phrases vos objectifs à court terme et à long terme, si vous en avez :
+// Décrivez en quelques phrases vos objectifs à court terme et à long terme, si vous en avez :capter et retranscrire en art absrait la couleur de la chaleur corporel
 
 ### Compétences
 
@@ -34,17 +34,17 @@
 
 #### Sujet du projet
 
-- **Titre du projet :**
-- **Description du projet (environ 150 mots) :**
+- **Titre du projet : Collective heat**
+- **Description du projet (environ 150 mots) : **
 
 #### Thématiques de recherche
 
-- **Thématiques que vous souhaitez explorer :**
+- **Thématiques que vous souhaitez explorer : donnée invisible, couleur involontaire**
 - **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :**
 
 #### Outils et techniques
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) : Capteur thermique**
 - **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :**
 
 #### Références artistiques
