@@ -12,7 +12,8 @@
 
 ### Présentation personnelle
 
-// Décrivez en quelques phrases vos objectifs à court terme et à long terme, si vous en avez :capter et retranscrire en art absrait la couleur de la chaleur corporel
+// Décrivez en quelques phrases vos objectifs à court terme et à long terme, si vous en avez :capter et retranscrire en art absrait la couleur de la chaleur corporel *ancienne idée*
+Dessiner avec le corps
 
 ### Compétences
 
@@ -34,8 +35,8 @@
 
 #### Sujet du projet
 
-- **Titre du projet : Collective heat**
-- **Description du projet (environ 150 mots) : **
+- **Titre du projet : D.W.B**
+- **Description du projet (environ 150 mots) : Un capteur de mouvement permet aux passant de dessiner avec leur corps **
 
 #### Thématiques de recherche
 
@@ -44,13 +45,13 @@
 
 #### Outils et techniques
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) : Capteur thermique**
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) : Capteur thermique *indisponible*, P5js**
 - **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :**
 
 #### Références artistiques
 
 - **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**
-- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**
+- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) : Raphael Loranzo-Hemmer, Matt DesLauriers, Adam Sébire, LeuWebb Project, BODY Heat, Christina Kubisch, Kyle McDonald, Extra Natural Miguel Chevalier**
 
 
 
@@ -75,8 +76,8 @@
 ### Planning de travail
 
 - Établissez un planning des étapes clés de votre projet :
-  - **Étape 1 :** date et description
-  - **Étape 2 :** date et description
+  - **Étape 1 : semaine 1/ recherches/ conception/ 1ers essaies ** 
+  - **Étape 2 : semaine 2/ amélioration du projet ** 
   - **Étape 3 :** date et description
 
 
@@ -88,6 +89,9 @@
 ## Journal de bord
 
 Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
+Lundi 23 novembre
+Aujourd'hui j'ai crééer un dossier sur le drive, dedans j'y ai mis plusieurs photographies comme un moodboard pour m'orienter dans ma recherche. J'ai aussi fait un brainstorming.
+https://drive.google.com/drive/folders/1c4v28BeYV7N4Rwhw1xqoWqBB89YsmCJ2?usp=drive_link
 
 ### JJ/MM/AAAA
 
