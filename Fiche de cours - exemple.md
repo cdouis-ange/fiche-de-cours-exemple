@@ -12,7 +12,8 @@
 
 ### Présentation personnelle
 
-// Décrivez en quelques phrases vos objectifs à court terme et à long terme, si vous en avez :capter et retranscrire en art absrait la couleur de la chaleur corporel
+// Décrivez en quelques phrases vos objectifs à court terme et à long terme, si vous en avez :capter et retranscrire en art absrait la couleur de la chaleur corporel *ancienne idée*
+Dessiner avec le corps
 
 ### Compétences
 
@@ -50,7 +51,7 @@
 #### Références artistiques
 
 - **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**
-- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) : Raphael Loranzo-Hemmer, Matt DesLauriers, Adam Sébire, LeuWebb Project, BODY Heat, Christina Kubisch, Kyle McDonald**
+- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) : Raphael Loranzo-Hemmer, Matt DesLauriers, Adam Sébire, LeuWebb Project, BODY Heat, Christina Kubisch, Kyle McDonald, Extra Natural Miguel Chevalier**
 
 
 
