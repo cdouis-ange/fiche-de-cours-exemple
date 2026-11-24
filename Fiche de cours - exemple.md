@@ -34,8 +34,8 @@
 
 #### Sujet du projet
 
-- **Titre du projet : Collective heat**
-- **Description du projet (environ 150 mots) : **
+- **Titre du projet : D.W.B**
+- **Description du projet (environ 150 mots) : Un capteur de mouvement permet aux passant de dessiner avec leur corps **
 
 #### Thématiques de recherche
 
@@ -44,13 +44,13 @@
 
 #### Outils et techniques
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) : Capteur thermique**
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) : Capteur thermique *indisponible*, P5js**
 - **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :**
 
 #### Références artistiques
 
 - **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**
-- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**
+- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) : Raphael Loranzo-Hemmer, Matt DesLauriers, Adam Sébire, LeuWebb Project, BODY Heat, Christina Kubisch, Kyle McDonald**
 
 
 
