@@ -89,10 +89,13 @@ Dessiner avec le corps
 ## Journal de bord
 
 Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
+
+Mardi 24 novembre 
+Recherche d'un nouveau sujet, ne pouvant pas obtenir un capteur de chaleur corporel. Je vais partir de nouveau sur un projet de synestésie en se basant sur les stéréotypes que notre visage renverrai sur la couleur. 
+
 Lundi 23 novembre
 Aujourd'hui j'ai crééer un dossier sur le drive, dedans j'y ai mis plusieurs photographies comme un moodboard pour m'orienter dans ma recherche. J'ai aussi fait un brainstorming.
 https://drive.google.com/drive/folders/1c4v28BeYV7N4Rwhw1xqoWqBB89YsmCJ2?usp=drive_link
-
 ### JJ/MM/AAAA
 
 - **Ce que j'ai fait :**
