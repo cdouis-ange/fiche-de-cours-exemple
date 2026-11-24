@@ -75,8 +75,8 @@
 ### Planning de travail
 
 - Établissez un planning des étapes clés de votre projet :
-  - **Étape 1 :** date et description
-  - **Étape 2 :** date et description
+  - **Étape 1 : semaine 1/ recherches/ conception/ 1ers essaies ** 
+  - **Étape 2 : semaine 2/ amélioration du projet ** 
   - **Étape 3 :** date et description
 
 
@@ -88,6 +88,9 @@
 ## Journal de bord
 
 Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
+Lundi 23 novembre
+Aujourd'hui j'ai crééer un dossier sur le drive, dedans j'y ai mis plusieurs photographies comme un moodboard pour m'orienter dans ma recherche. J'ai aussi fait un brainstorming.
+https://drive.google.com/drive/folders/1c4v28BeYV7N4Rwhw1xqoWqBB89YsmCJ2?usp=drive_link
 
 ### JJ/MM/AAAA
 
