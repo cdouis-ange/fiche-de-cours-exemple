@@ -90,6 +90,9 @@ Dessiner avec le corps
 
 Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
+**Vendredi 27 novembre**
+J'essaie d'améliorer le code pour que la caméra puisse détecter notre index et que l'on puisse dessiner sur un canva avec la couleur obtenue par notre expression faciale.
+
 **Mercredi 25 novembre**
 Premiers essaies, Le code détecte la lumière et change la couleur en fonction de la luminositée.
 https://editor.p5js.org/cdouis/sketches/2VRxFXC1n
