@@ -93,7 +93,7 @@ Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 **Vendredi 27 novembre**
 J'essaie d'améliorer le code pour que la caméra puisse détecter notre index et que l'on puisse dessiner sur un canva avec la couleur obtenue par notre expression faciale.
 
-![Logo Markdown](image/visage.jpg)
+![Logo Markdown](image/visages.jpg)
 
 **Mercredi 25 novembre**
 Premiers essaies, Le code détecte la lumière et change la couleur en fonction de la luminositée.
@@ -105,10 +105,9 @@ Ensuite j'ai fait des recherches les stéréotypes des couleurs et de l'expressi
 
  Avec les conseils de Valérie, j'ai fait un premier code qui permet d'afficher une couleur en fond en fonction de nôtre expression faciale.
 https://editor.p5js.org/cdouis/sketches/YfhLEirrr
-
+![Logo Markdown](image/Ha%20et%20moi.jpg)
 ![Logo Markdown](image/visage.jpg)
-
-
+*Peut-être qu'ils devraient m'engager*
 
 
 **Mardi 24 novembre**
@@ -119,7 +118,22 @@ https://editor.p5js.org/cdouis/sketches/OstQhroVm
 
 **Lundi 23 novembre**
 Aujourd'hui j'ai crééer un dossier sur le drive, dedans j'y ai mis plusieurs photographies comme un moodboard pour m'orienter dans ma recherche. J'ai aussi fait un brainstorming.
-https://drive.google.com/drive/folders/1c4v28BeYV7N4Rwhw1xqoWqBB89YsmCJ2?usp=drive_link
+![Logo Markdown](image/1er%20croquis.jpg)
+![Logo Markdown](image/corps.jpg)
+![Logo Markdown](image/bodyheat.jpg)
+![Logo Markdown](image/fingerprint.jpg)
+![Logo Markdown](image/mains.jpg)
+![Logo Markdown](image/moodboard.jpg)
+![Logo Markdown](image/moodboard2.jpg)
+![Logo Markdown](image/moodboard3.jpg)
+![Logo Markdown](image/oeuvre.png)
+![Logo Markdown](image/oeuvre%202.png)
+![Logo Markdown](image/oeuvre%203.png)
+![Logo Markdown](image/oeuvre%204.png)
+![Logo Markdown](image/oeuvre%205.png)
+![Logo Markdown](image/oeuvre%206.png)
+![Logo Markdown](image/personne.jpg)
+![Logo Markdown](image/personnes.jpg)
 
 
 - **Ce que j'ai fait :**
