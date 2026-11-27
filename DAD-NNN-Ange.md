@@ -95,6 +95,9 @@ J'essaie d'améliorer le code pour que la caméra puisse détecter notre index e
 
 ![Logo Markdown](image/visages.jpg)
 
+Mais pour l'instant il y a un problem avec le code car l'une des fonction est n'est pas compatible avec mon ML5 qui est ancien.
+https://editor.p5js.org/cdouis/sketches/nwadC5QtI
+
 **Mercredi 25 novembre**
 Premiers essaies, Le code détecte la lumière et change la couleur en fonction de la luminositée.
 https://editor.p5js.org/cdouis/sketches/2VRxFXC1n
