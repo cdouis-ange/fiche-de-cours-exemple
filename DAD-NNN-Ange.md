@@ -95,7 +95,7 @@ J'essaie d'améliorer le code pour que la caméra puisse détecter notre index e
 
 ![Logo Markdown](image/visages.jpg)
 
-Mais pour l'instant il y a un problem avec le code car l'une des fonction est n'est pas compatible avec mon ML5 qui est ancien.
+Mais pour l'instant il y a un problème avec le code car l'une des fonction est n'est pas compatible avec mon ML5 qui est ancien. j'essaie donc de trouver une alternative pour le rafraichir ou trouver une autre fonction.
 https://editor.p5js.org/cdouis/sketches/nwadC5QtI
 
 **Mercredi 25 novembre**
